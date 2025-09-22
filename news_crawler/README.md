@@ -4,7 +4,7 @@
 
 ### 1. Trang chủ
 
-![Home](docs/images/trang chủ.png)
+![Home](docs/images/home.png)
 
 ### 2. Đăng nhập
 
